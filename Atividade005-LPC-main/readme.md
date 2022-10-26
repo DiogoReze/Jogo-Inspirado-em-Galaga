@@ -78,7 +78,7 @@ Para saber mais sobre como fazer um pull request, consulte a documentação do G
       <a href="#">
         <img src="https://github.com/DiogoRezen.png" width="100px;" alt="Foto"/><br>
         <sub>
-          <a href="https://github.com/DiogoRezen">Diogo Rezende</a>
+          <a href="https://github.com/DiogoReze">Diogo Rezende</a>
         </sub>
       </a>
     </td>
